@@ -1,0 +1,5 @@
+text = input("Введите строку: ")
+asterisk_count = text.count('*')
+semicolon_count = text.count(';')
+print("Количество '*' в строке:", asterisk_count)
+print("Количество ';' в строке:", semicolon_count)

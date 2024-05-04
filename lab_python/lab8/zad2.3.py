@@ -1,0 +1,5 @@
+text = input("Введите строку: ")
+r_count = text.count('r')
+t_count = text.count('t')
+print("Количество 'r' в строке:", r_count)
+print("Количество 't' в строке:", t_count)
